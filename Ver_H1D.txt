@@ -1,0 +1,4 @@
+[Program Information]
+Program_Name=Hydrus1D
+Version=4.17.0140
+Build_Date=15.11.2018
